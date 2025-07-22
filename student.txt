@@ -1,5 +1,6 @@
 # Not School related
 ||fandom.com^
+||discord.gg^
 # VPN
 ||1clickvpn.net^
 ||analytics-toolbar.urban-vpn.com^
