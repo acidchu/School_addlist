@@ -43,3 +43,5 @@
 ||3xpsmjs.pages.dev^
 ||abcya.com^
 ||crazygames.com^
+||https://23azo.com^
+||roblox-unblock.github.io^
