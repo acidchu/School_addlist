@@ -1,6 +1,24 @@
-# Not School
-||fandom.com^
-# VPN
+# === SCHOOL FILTER LIST (SORTED) ===
+
+# --- ALLOWLIST (EXCEPTIONS) ---
+# These rules override blocks to ensure educational tools work.
+@@||au.accessit.online^
+@@||canvadocs-syd.instructure.com^$important
+@@||canvas.lms.unimelb.edu.au^$important
+@@||celestiaproject.space^$important
+@@||contentsunshineonline.s3-ap-southeast-2.amazonaws.com^$important
+@@||dbau.accessit.online^
+@@||icas.site^$important
+@@||learn.accessit.online^$important
+@@||lms.educationapps.vic.gov.au^$important
+@@||proxy.education.netspace.net.au^$important
+@@||saml-in3.clickview.com.au^$important
+@@||www.deviantart.com^$client='10.137.250.43'
+
+# --- AI ---
+||perplexity.ai^
+
+# --- VPN & PROXIES ---
 ||1clickvpn.net^
 ||analytics-toolbar.urban-vpn.com^
 ||api.1clickvpn.net^
@@ -12,64 +30,57 @@
 ||stats.itopvpn.com^
 ||xvpn.io^
 ||xvpnsecurity.com^
-# AI
-||perplexity.ai^
-# VIDEO STREAMING
+
+# --- VIDEO STREAMING ---
 ||flixbaba.com^
 ||flixbaba.net^
 ||videasy.net^
-# GAMES
-||roblox.com^
-||steamunlocked.com.br^
-||1fichier.com^
-||epicgames.com^
-||unblocked66.games^
-||https://gamemonetize.com^
-||gamepass.com^
-||gamedistribution.com^
-||unblockedgames.blogbucket.org^
-||armorgames.com^
-||definitelyscience.com^
-||peppagame.com^
-||baldigames.com^
+
+# --- GAMES & EMULATORS ---
 ||3xpsmjs.pages.dev^
 ||abcya.com^
+||armorgames.com^
+||baldigames.com^
 ||crazygames.com^
-||github.io
-@@||dbau.accessit.online^
-@@||au.accessit.online^
-@@||www.deviantart.com^$client='10.137.250.43'
-||www.agame.com^$important
+||definitelyscience.com^
+||epicgames.com^
 ||frame.games.yahoo.co.jp^$important
-||game-cdn.poki.com^$important
-||nointernetgame.com^
-||www.gameloop.com^
-||*.gitlab.io^
-||*.gamemonetize.co^
-||unblocked-games-67.pages.dev^
-@@||lms.educationapps.vic.gov.au^$important
-@@||canvas.lms.unimelb.edu.au^$important
-@@||contentsunshineonline.s3-ap-southeast-2.amazonaws.com^$important
-@@||learn.accessit.online^$important
-@@||proxy.education.netspace.net.au^$important
+||gamedistribution.com^
 ||gamejolt.com^$important
-||v6.gxcorner.games^$important
-||proxy.gxcorner.games^$important
-||www.mathplayground.com^$important
-@@||saml-in3.clickview.com.au^$important
-@@||celestiaproject.space^$important
-@@||canvadocs-syd.instructure.com^$important
-||rt.gamepix.com^$important
-||integration.gamepix.com^$important
+||gameloop.com^
+||gamemonetize.com^
+||gamepass.com^
 ||games.assets.gamepix.com^$important
-@@||icas.site^$important
+||integration.gamepix.com^$important
+||nointernetgame.com^
+||peppagame.com^
+||proxy.gxcorner.games^$important
+||roblox.com^
+||rt.gamepix.com^$important
+||thetinyfishing.com^
+||unblocked66.games^
+||unblockedgames.blogbucket.org^
+||unblocked-games-67.pages.dev^
+||v6.gxcorner.games^$important
+||www.agame.com^$important
+||www.mathplayground.com^$important
+||*.poki.com^
 ||*.poki.io^
 ||*.poki-cdn.com^
-||*.poki.io^
-||*.poki.com^
-||*.emuos.org^
-||*.emupedia.org^
+||game-cdn.poki.com^$important
 ||*.emuos.net^
+||*.emuos.org^
 ||*.emupedia.net^
+||*.emupedia.org^
 ||emupedia.net^$important
-||thetinyfishing.com^
+
+# --- CODING HOSTS (SITES USED FOR GAMES) ---
+||*.gitlab.io^
+||github.io^
+
+# --- FILE HOSTING & PIRACY ---
+||1fichier.com^
+||steamunlocked.com.br^
+
+# --- MISC ---
+||fandom.com^
