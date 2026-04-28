@@ -32,11 +32,14 @@
 ||xvpnsecurity.com^
 
 # --- VIDEO STREAMING ---
+||vimeo.com^
 ||flixbaba.com^
 ||flixbaba.net^
 ||videasy.net^
 
 # --- GAMES & EMULATORS ---
+||www.cokogames.com^
+||fut.gg^
 ||3xpsmjs.pages.dev^
 ||abcya.com^
 ||armorgames.com^
