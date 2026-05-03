@@ -38,6 +38,7 @@
 ||videasy.net^
 
 # --- GAMES & EMULATORS ---
+||api.steampowered.com^
 ||www.cokogames.com^
 ||fut.gg^
 ||3xpsmjs.pages.dev^
@@ -87,3 +88,8 @@
 
 # --- MISC ---
 ||fandom.com^
+
+# --- SOCIAL ---
+||gateway.discord.gg^
+||discord.com^
+
