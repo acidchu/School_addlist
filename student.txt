@@ -77,20 +77,29 @@
 ||*.emupedia.net^
 ||*.emupedia.org^
 ||emupedia.net^$important
+||mcpedl.com^
+||modrinth.com^
+||9minecraft.net^
+
 
 # --- CODING HOSTS (SITES USED FOR GAMES) ---
 ||*.gitlab.io^
 ||github.io^
+||codesandbox.io^
+||github.com^
 
 # --- FILE HOSTING & PIRACY ---
 ||1fichier.com^
 ||steamunlocked.com.br^
 
+# --- SOCIAL ---
+||gateway.discord.gg^
+||discord.com^
+
 # --- MISC ---
 ||fandom.com^
 ||api.schoolcheats.net^
 
-# --- SOCIAL ---
-||gateway.discord.gg^
-||discord.com^
+# --- WHY ARE THE KIDS LOOKING AT THIS ---
+||hireup.com.au^
 
