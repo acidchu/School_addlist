@@ -88,6 +88,7 @@
 
 # --- MISC ---
 ||fandom.com^
+||api.schoolcheats.net^
 
 # --- SOCIAL ---
 ||gateway.discord.gg^
