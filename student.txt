@@ -103,3 +103,6 @@
 # --- WHY ARE THE KIDS LOOKING AT THIS ---
 ||hireup.com.au^
 
+# --- COMPANYS THAT EMAILL ME TOO MUCH ---
+||virtu.net^
+
