@@ -2,6 +2,7 @@
 
 # --- ALLOWLIST (EXCEPTIONS) ---
 # These rules override blocks to ensure educational tools work.
+@@||compass.education^$important
 @@||au.accessit.online^
 @@||canvadocs-syd.instructure.com^$important
 @@||canvas.lms.unimelb.edu.au^$important
@@ -95,6 +96,7 @@
 # --- SOCIAL ---
 ||gateway.discord.gg^
 ||discord.com^
+||reddit.com^
 
 # --- MISC ---
 ||fandom.com^
