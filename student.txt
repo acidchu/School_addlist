@@ -15,6 +15,9 @@
 @@||proxy.education.netspace.net.au^$important
 @@||saml-in3.clickview.com.au^$important
 @@||www.deviantart.com^$client='10.137.250.43'
+@@||compass.education^$important
+@@||vimeo.com^$important
+@@||lensflare.vimeo.com^$important
 
 # --- AI ---
 ||perplexity.ai^
@@ -33,7 +36,6 @@
 ||xvpnsecurity.com^
 
 # --- VIDEO STREAMING ---
-||vimeo.com^
 ||flixbaba.com^
 ||flixbaba.net^
 ||videasy.net^
@@ -81,6 +83,16 @@
 ||mcpedl.com^
 ||modrinth.com^
 ||9minecraft.net^
+||www.primarygames.com^$important
+||nowifigames.org^$important
+||subwaysurfersgame.org^$important
+||play.prodigygame.com^$important
+||www.hoodamath.com^$important
+||www.primarygames.co.uk^$important
+||slopegamesunblocked.com^$important
+||slope3.com^$important
+||slopeio.org^$important
+||slope-play.com^$important
 
 
 # --- CODING HOSTS (SITES USED FOR GAMES) ---
@@ -88,6 +100,10 @@
 ||github.io^
 ||codesandbox.io^
 ||github.com^
+||d0lx8pxi90.execute-api.us-east-1.amazonaws.com^$important
+||raw.githubusercontent.com^$important
+||release-assets.githubusercontent.com^$important
+
 
 # --- FILE HOSTING & PIRACY ---
 ||1fichier.com^
@@ -108,3 +124,10 @@
 # --- COMPANYS THAT EMAILL ME TOO MUCH ---
 ||virtu.net^
 
+# --- POLICY BREACHES TEACHERS WONT OBAY ---
+||capcut.com^
+||capcutapi.com^
+||capcutapi.com.ttdns2.com^
+||sf16-ug-neutral.capcutstatic.com^$important
+||sf16-web-login-neutral.capcutstatic.com^$important
+||lumi-studio.byteintlapi.com^$important
