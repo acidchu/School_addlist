@@ -93,6 +93,34 @@
 ||slope3.com^$important
 ||slopeio.org^$important
 ||slope-play.com^$important
+||https://a2174-99533489.cluster40.canvas-user-content.com^$important
+
+||https://quizizz-static.s3.amazonaws.com/_media/uploadedFiles/9e0c0d18-c975-497c-b410-fc7dae5fafca-v2^$important
+||https://quizizz.com/_media/uploadedFiles/9e0c0d18-c975-497c-b410-fc7dae5fafca-v2^$important
+||https://quizizz-static.s3-accelerate.amazonaws.com/_media/uploadedFiles/9e0c0d18-c975-497c-b410-fc7dae5fafca-v2^$important
+||http://cdn.jsdelivr.net/gh/stockable/sites@main/gnmath.svg^$important
+||https://jsdelivr.b-cdn.net/gh/stockable/sites@main/gnmath.svg^$important
+||https://stocky.pythonanywhere.com/^$important
+||https://script.google.com/macros/s/AKfycbyAQJyD3ehBIMbLmMub_3-fSGlV497f8Yi9WYCDgS8zTcSzMe4vr2lz0qc4LaegbB0C4A/exec
+||https://stock--bcc07cc65b1411f1abceee650bb23af1.web.val.run/^$important
+||http://cdn.bdyoutube.com^$important
+||https://math.st0ck.deno.net^$important
+
+||https://quizizz.com/_media/uploadedFiles/b5abc156-aa98-4eb1-81fa-b823bb67abd6-v2^$important
+||https://quizizz.com/_media/uploadedFiles/165c8827-a467-4794-84f4-a9dd795d5001-v2^$important
+||https://797902fe-b3d7-4ad2-9527-1e67cf1372d1.filesusr.com/html/1ce7bc_50f948dc314c4525966a767f300ffa00.html^$important
+||https://snoopydbb-wixsite-com.filesusr.com/html/1ce7bc_ee1a218e32897c5f18855c7a5f85c451.html^$important
+||http://graduation.edu.fysiomotion.se^$important
+||http://snoopy-school.allseasons3dprinting.com^$important
+||http://snoopyuniversity.heidibranlund.com^$important
+||http://7516c3b35580b3490248629cff5e498c.heidibranlund.com^$important
+
+||https://unpkg.com/snoopylearning@1.0.0/index.svg^$important
+||https://unpkg.com/snoopylearning@1.0.0/index.html^$important
+||https://esm.sh/snoopylearning@1.0.0/index.svg^$important
+||https://esm.sh/snoopylearning@1.0.0/index.html^$important
+||https://fastly.jsdelivr.net/npm/snoopylearning@1.0.0/index.svg^$important
+||https://cdn.statically.io/npm/snoopylearning@1.0.0/index.svg^$important
 
 
 # --- CODING HOSTS (SITES USED FOR GAMES) ---
